@@ -1,0 +1,39 @@
+path: /home/nyan/k-project/finebio_yolo_joint
+train: images/train
+val: images/val
+names:
+  0: left_hand
+  1: right_hand
+  2: blue_pipette
+  3: yellow_pipette
+  4: red_pipette
+  5: 8_channel_pipette
+  6: blue_tip
+  7: yellow_tip
+  8: red_tip
+  9: 8_channel_tip
+  10: blue_tip_rack
+  11: yellow_tip_rack
+  12: red_tip_rack
+  13: 8_channel_tip_rack
+  14: 50ml_tube
+  15: 15ml_tube
+  16: micro_tube
+  17: 8_tube_stripes
+  18: 8_tube_stripes_lid
+  19: 50ml_tube_rack
+  20: 15ml_tube_rack
+  21: micro_tube_rack
+  22: 8_tube_stripes_rack
+  23: 8_tube_stripes_rack_lid
+  24: cell_culture_plate
+  25: cell_culture_plate_lid
+  26: trash_can
+  27: centrifuge
+  28: vortex_mixer
+  29: magnetic_rack
+  30: pcr_machine
+  31: tube_with_spin_column
+  32: spin_column
+  33: tube_without_lid
+  34: pen
