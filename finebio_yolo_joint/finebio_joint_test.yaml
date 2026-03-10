@@ -1,6 +1,7 @@
 path: /home/nyan/k-project/finebio_yolo_joint
 train: images/train
 val: images/val
+test: images/test
 names:
   0: left_hand
   1: right_hand
