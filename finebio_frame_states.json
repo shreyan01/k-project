@@ -1,0 +1,313 @@
+[
+  {
+    "frame_id": 100,
+    "objects": {
+      "yellow_tip_rack": {
+        "cls_id": 11,
+        "pos3d": null,
+        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "best_cam": 2,
+        "conf": 0.9858129620552063,
+        "bbox_xyxy": [
+          1630.0352783203125,
+          806.4336547851562,
+          1769.498291015625,
+          1021.8409423828125
+        ],
+        "bbox_center": [
+          1699.7667846679688,
+          914.1372985839844
+        ]
+      },
+      "blue_tip_rack": {
+        "cls_id": 10,
+        "pos3d": null,
+        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "best_cam": 1,
+        "conf": 0.9374786615371704,
+        "bbox_xyxy": [
+          981.1122436523438,
+          663.320556640625,
+          1202.9647216796875,
+          856.528564453125
+        ],
+        "bbox_center": [
+          1092.0384826660156,
+          759.924560546875
+        ]
+      },
+      "trash_can": {
+        "cls_id": 26,
+        "pos3d": null,
+        "method": "skipped_fp_cam",
+        "best_cam": 1,
+        "conf": 0.9288696646690369,
+        "bbox_xyxy": [
+          806.26025390625,
+          449.518310546875,
+          1006.40771484375,
+          722.8220825195312
+        ],
+        "bbox_center": [
+          906.333984375,
+          586.1701965332031
+        ]
+      },
+      "magnetic_rack": {
+        "cls_id": 29,
+        "pos3d": null,
+        "method": "skipped_fp_cam",
+        "best_cam": 5,
+        "conf": 0.9652202725410461,
+        "bbox_xyxy": [
+          0.0,
+          595.2001953125,
+          256.7394104003906,
+          764.2325439453125
+        ],
+        "bbox_center": [
+          128.3697052001953,
+          679.7163696289062
+        ]
+      },
+      "micro_tube_rack": {
+        "cls_id": 21,
+        "pos3d": null,
+        "method": "skipped_fp_cam",
+        "best_cam": 5,
+        "conf": 0.8398208618164062,
+        "bbox_xyxy": [
+          417.0921936035156,
+          904.9129638671875,
+          867.0531005859375,
+          1070.48095703125
+        ],
+        "bbox_center": [
+          642.0726470947266,
+          987.6969604492188
+        ]
+      },
+      "centrifuge": {
+        "cls_id": 27,
+        "pos3d": null,
+        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "best_cam": 4,
+        "conf": 0.8661424517631531,
+        "bbox_xyxy": [
+          772.0248413085938,
+          520.6909790039062,
+          1051.94580078125,
+          984.0946044921875
+        ],
+        "bbox_center": [
+          911.9853210449219,
+          752.3927917480469
+        ]
+      },
+      "8_channel_tip_rack": {
+        "cls_id": 13,
+        "pos3d": null,
+        "method": "skipped_fp_cam",
+        "best_cam": 5,
+        "conf": 0.9309335947036743,
+        "bbox_xyxy": [
+          1342.79931640625,
+          851.6380615234375,
+          1565.08154296875,
+          1021.0858154296875
+        ],
+        "bbox_center": [
+          1453.9404296875,
+          936.3619384765625
+        ]
+      },
+      "vortex_mixer": {
+        "cls_id": 28,
+        "pos3d": null,
+        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "best_cam": 4,
+        "conf": 0.9613886475563049,
+        "bbox_xyxy": [
+          2.1478042602539062,
+          816.113525390625,
+          189.8617706298828,
+          1013.43310546875
+        ],
+        "bbox_center": [
+          96.00478744506836,
+          914.7733154296875
+        ]
+      },
+      "micro_tube": {
+        "cls_id": 16,
+        "pos3d": null,
+        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "best_cam": 1,
+        "conf": 0.6293079853057861,
+        "bbox_xyxy": [
+          859.0059814453125,
+          1119.46923828125,
+          895.5587768554688,
+          1161.5855712890625
+        ],
+        "bbox_center": [
+          877.2823791503906,
+          1140.5274047851562
+        ]
+      },
+      "pcr_machine": {
+        "cls_id": 30,
+        "pos3d": null,
+        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "best_cam": 1,
+        "conf": 0.5464304089546204,
+        "bbox_xyxy": [
+          245.17645263671875,
+          601.9222412109375,
+          360.0039978027344,
+          700.8304443359375
+        ],
+        "bbox_center": [
+          302.59022521972656,
+          651.3763427734375
+        ]
+      },
+      "50ml_tube_rack": {
+        "cls_id": 19,
+        "pos3d": null,
+        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "best_cam": 2,
+        "conf": 0.6231666207313538,
+        "bbox_xyxy": [
+          744.560546875,
+          546.728271484375,
+          838.0040283203125,
+          679.9461059570312
+        ],
+        "bbox_center": [
+          791.2822875976562,
+          613.3371887207031
+        ]
+      },
+      "cell_culture_plate": {
+        "cls_id": 24,
+        "pos3d": null,
+        "method": "skipped_fp_cam",
+        "best_cam": "fp",
+        "conf": 0.9239230751991272,
+        "bbox_xyxy": [
+          674.6365356445312,
+          669.726318359375,
+          983.7294921875,
+          1029.53466796875
+        ],
+        "bbox_center": [
+          829.1830139160156,
+          849.6304931640625
+        ]
+      },
+      "yellow_pipette": {
+        "cls_id": 3,
+        "pos3d": null,
+        "method": "single_view_only",
+        "best_cam": 1,
+        "conf": 0.39121013879776,
+        "bbox_xyxy": [
+          1034.2408447265625,
+          852.9735107421875,
+          1151.2091064453125,
+          1086.482177734375
+        ],
+        "bbox_center": [
+          1092.7249755859375,
+          969.7278442382812
+        ]
+      },
+      "15ml_tube_rack": {
+        "cls_id": 20,
+        "pos3d": null,
+        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "best_cam": 2,
+        "conf": 0.41728609800338745,
+        "bbox_xyxy": [
+          508.67010498046875,
+          261.1024475097656,
+          545.859619140625,
+          407.2794189453125
+        ],
+        "bbox_center": [
+          527.2648620605469,
+          334.19093322753906
+        ]
+      },
+      "blue_pipette": {
+        "cls_id": 2,
+        "pos3d": null,
+        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "best_cam": 4,
+        "conf": 0.3250305652618408,
+        "bbox_xyxy": [
+          945.6627197265625,
+          1235.015869140625,
+          1086.7369384765625,
+          1435.5733642578125
+        ],
+        "bbox_center": [
+          1016.1998291015625,
+          1335.2946166992188
+        ]
+      },
+      "8_tube_stripes_rack": {
+        "cls_id": 22,
+        "pos3d": null,
+        "method": "skipped_fp_cam",
+        "best_cam": 2,
+        "conf": 0.918259859085083,
+        "bbox_xyxy": [
+          224.51202392578125,
+          244.0169219970703,
+          447.0841369628906,
+          426.9132080078125
+        ],
+        "bbox_center": [
+          335.79808044433594,
+          335.4650650024414
+        ]
+      },
+      "50ml_tube": {
+        "cls_id": 14,
+        "pos3d": null,
+        "method": "single_view_only",
+        "best_cam": "fp",
+        "conf": 0.6438702940940857,
+        "bbox_xyxy": [
+          923.9635009765625,
+          454.0000305175781,
+          1063.803466796875,
+          623.203369140625
+        ],
+        "bbox_center": [
+          993.8834838867188,
+          538.6016998291016
+        ]
+      },
+      "cell_culture_plate_lid": {
+        "cls_id": 25,
+        "pos3d": null,
+        "method": "single_view_only",
+        "best_cam": "fp",
+        "conf": 0.5286569595336914,
+        "bbox_xyxy": [
+          674.6365356445312,
+          669.726318359375,
+          983.7294921875,
+          1029.53466796875
+        ],
+        "bbox_center": [
+          829.1830139160156,
+          849.6304931640625
+        ]
+      }
+    }
+  }
+]
