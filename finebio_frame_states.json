@@ -4,8 +4,12 @@
     "objects": {
       "yellow_tip_rack": {
         "cls_id": 11,
-        "pos3d": null,
-        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "pos3d": [
+          47.804478992805876,
+          2.568095380182789,
+          7.499255958646008
+        ],
+        "method": "triangulated",
         "best_cam": 2,
         "conf": 0.9858129620552063,
         "bbox_xyxy": [
@@ -21,8 +25,12 @@
       },
       "blue_tip_rack": {
         "cls_id": 10,
-        "pos3d": null,
-        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "pos3d": [
+          101.73853323712859,
+          22.90093601317345,
+          -13.249340104129534
+        ],
+        "method": "triangulated",
         "best_cam": 1,
         "conf": 0.9374786615371704,
         "bbox_xyxy": [
@@ -89,8 +97,12 @@
       },
       "centrifuge": {
         "cls_id": 27,
-        "pos3d": null,
-        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "pos3d": [
+          91.20416656779949,
+          22.929358792177762,
+          -26.320972122941605
+        ],
+        "method": "triangulated",
         "best_cam": 4,
         "conf": 0.8661424517631531,
         "bbox_xyxy": [
@@ -123,8 +135,12 @@
       },
       "vortex_mixer": {
         "cls_id": 28,
-        "pos3d": null,
-        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "pos3d": [
+          -126.40665076804844,
+          85.30894107354999,
+          -14.050417687732518
+        ],
+        "method": "triangulated",
         "best_cam": 4,
         "conf": 0.9613886475563049,
         "bbox_xyxy": [
@@ -140,8 +156,12 @@
       },
       "micro_tube": {
         "cls_id": 16,
-        "pos3d": null,
-        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "pos3d": [
+          -67.699659542316,
+          -41.96257515755438,
+          -58.97942701286399
+        ],
+        "method": "triangulated",
         "best_cam": 1,
         "conf": 0.6293079853057861,
         "bbox_xyxy": [
@@ -157,8 +177,12 @@
       },
       "pcr_machine": {
         "cls_id": 30,
-        "pos3d": null,
-        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "pos3d": [
+          -30.219377956119757,
+          -45.83102683022971,
+          -38.003497437349964
+        ],
+        "method": "triangulated",
         "best_cam": 1,
         "conf": 0.5464304089546204,
         "bbox_xyxy": [
@@ -174,8 +198,12 @@
       },
       "50ml_tube_rack": {
         "cls_id": 19,
-        "pos3d": null,
-        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "pos3d": [
+          441.1959036071615,
+          -819.2654757992074,
+          -112.5742731012923
+        ],
+        "method": "triangulated",
         "best_cam": 2,
         "conf": 0.6231666207313538,
         "bbox_xyxy": [
@@ -225,8 +253,12 @@
       },
       "15ml_tube_rack": {
         "cls_id": 20,
-        "pos3d": null,
-        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "pos3d": [
+          92.80521653090476,
+          -36.277583688752735,
+          -63.333126402670416
+        ],
+        "method": "triangulated",
         "best_cam": 2,
         "conf": 0.41728609800338745,
         "bbox_xyxy": [
@@ -242,8 +274,12 @@
       },
       "blue_pipette": {
         "cls_id": 2,
-        "pos3d": null,
-        "method": "error: OpenCV(4.13.0) /io/opencv/modules/calib3d/src/undistort.dispatch.cpp:362: error: (-215:Assertion failed) CV_IS_MAT(_distCoeffs) && (_distCoeffs->rows == 1 || _distCoeffs->cols == 1) && (_distCoeffs->rows*_distCoeffs->cols == 4 || _distCoeffs->rows*_distCoeffs->cols == 5 || _distCoeffs->rows*_distCoeffs->cols == 8 || _distCoeffs->rows*_distCoeffs->cols == 12 || _distCoeffs->rows*_distCoeffs->cols == 14) in function 'cvUndistortPointsInternal'\n",
+        "pos3d": [
+          100.93423296605658,
+          18.639460580694145,
+          13.859742997554449
+        ],
+        "method": "triangulated",
         "best_cam": 4,
         "conf": 0.3250305652618408,
         "bbox_xyxy": [
